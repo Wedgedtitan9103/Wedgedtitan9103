@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Dorothy Torres 👋
 
+Exploring hybrid and multi-cloud architectures.
 
-**Wedgedtitan9103/Wedgedtitan9103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- Metasploit
+- Penetration Testing
+- OWASP
+- Burp Suite
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+## 📫 Contact
+- GitHub: https://github.com/Wedgedtitan9103
+- Email: Wedgedtitan9103@example.com
